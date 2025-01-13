@@ -11,4 +11,12 @@
   border-radius: 14px;
   padding: 3px;
   text-align: center;
+
+  &__input {
+    margin: 5px 0;
+  }
+
+  &__dropdown {
+    margin: 5px 0;
+  }
 }
